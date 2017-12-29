@@ -1,12 +1,12 @@
 # Frame_With_Buttons
 a piece of code that displays a frame with few buttons on it
 
-package grouplayout;
+    package grouplayout;
 
     import javax.swing.*;
     import java.awt.*;
 
-public class Main extends JFrame {
+    public class Main extends JFrame {
 
     public Main()
     {
@@ -64,4 +64,4 @@ public class Main extends JFrame {
         
     }
     
-}
+    }
